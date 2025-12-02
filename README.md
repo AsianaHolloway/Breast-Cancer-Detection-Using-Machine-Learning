@@ -35,8 +35,6 @@ Generated a correlation heatmap
 
 Explored differences between benign and malignant cases
 
-🔍 Sample Visualization
-![Correlation Heatmap](images/heatmap_correlation.png)
 
 ⭐ What I Learned
 
