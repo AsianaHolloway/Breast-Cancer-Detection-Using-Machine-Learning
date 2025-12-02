@@ -25,19 +25,14 @@ The work is split into two parts but implemented in a **single Colab notebook**:
   - Visualize relationships between features and the target label
  
 ✔ Key Tasks Completed
-
-Loaded the UCI dataset
-
-Inspected distributions of tumor features
-
-Visualized outliers and patterns
-
-Generated a correlation heatmap
-
-Explored differences between benign and malignant cases
+  - Loaded the UCI dataset
+  - Inspected distributions of tumor features
+  - Visualized outliers and patterns
+  - Generated a correlation heatmap
+  - Explored differences between benign and malignant cases
 
 
-⭐ What I Learned
+## ⭐ What I Learned
 
 Interpreting multivariate relationships
 
