@@ -50,14 +50,16 @@ Preparing real medical data for ML modeling
 
 Seven different models were trained, evaluated, and compared:
 
-Model	Accuracy	Precision	Recall	F1-Score
-SVM (RBF) ⭐	0.9375	0.944	0.9375	0.9375
-AdaBoost	0.8750	0.875	0.875	0.875
-SVM (linear)	0.8750	0.875	0.875	0.875
-SVM (sigmoid)	0.8750	0.809	0.875	0.874
-KNN	0.8437	0.856	0.843	0.842
-MLP (Neural Network)	0.8437	0.845	0.843	0.843
-GaussianNB	0.7188	0.820	0.718	0.694
+| Model                | Accuracy | Precision | Recall | F1-Score |
+| -------------------- | -------- | --------- | ------ | -------- |
+| **SVM (RBF)** ⭐      | 0.9375   | 0.944     | 0.9375 | 0.9375   |
+| AdaBoost             | 0.8750   | 0.875     | 0.875  | 0.875    |
+| SVM (linear)         | 0.8750   | 0.875     | 0.875  | 0.875    |
+| SVM (sigmoid)        | 0.8750   | 0.809     | 0.875  | 0.874    |
+| KNN                  | 0.8437   | 0.856     | 0.843  | 0.842    |
+| MLP (Neural Network) | 0.8437   | 0.845     | 0.843  | 0.843    |
+| GaussianNB           | 0.7188   | 0.820     | 0.718  | 0.694    |
+
 
 The overall goal is to understand how ML can support **early detection** and **clinical decision support** in breast cancer.
 
