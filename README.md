@@ -63,7 +63,7 @@ Seven different models were trained, evaluated, and compared:
 
 The overall goal is to understand how ML can support **early detection** and **clinical decision support** in breast cancer.
 
-🏆 Best Model: SVM with RBF Kernel
+## 🏆 Best Model: SVM with RBF Kernel
 Why it performed best:
 
 Highest accuracy (93.75%)
@@ -80,7 +80,7 @@ Clinical relevance:
 
 The RBF SVM delivered the best diagnostic performance, reducing the risk of false negatives, which is crucial in early breast cancer detection.
 
-🧠 Code Walkthrough 
+## 🧠 Code Walkthrough 
 
 🔹 Data Loading & Cleaning
 
@@ -141,7 +141,7 @@ F1-score: Balance between precision and recall.
 
 In breast cancer detection, high recall for the malignant class is crucial since missing a malignant case (false negative) can delay diagnosis and treatment.
 
-🏆 Model Selection & Conclusion
+## 🏆 Model Selection & Conclusion
 
 Based on the evaluation:
 
@@ -151,7 +151,7 @@ KNN slightly outperformed SVM in overall accuracy in this experiment.
 
 Both models showed strong precision and recall, but KNN had a small edge in balancing the metrics.
 
-📌 Chosen Model:
+## 📌 Chosen Model:
 For this dataset, I would slightly favor KNN because:
 
 It achieved slightly higher accuracy on the held-out test set.
@@ -162,7 +162,7 @@ It is relatively easy to tune (by adjusting n_neighbors) and extend.
 
 However, SVM remains a strong alternative and might generalize better on more complex or imbalanced datasets.
 
-🎓 Skills & Knowledge Gained
+## 🎓 Skills & Knowledge Gained
 
 Practical experience building end-to-end ML pipelines on clinical data.
 
@@ -172,7 +172,7 @@ Hands-on practice comparing KNN vs. SVM for a real medical classification proble
 
 Interpreting confusion matrices and classification reports in the context of patient safety and diagnostic accuracy.
 
-💬 Contact
+## 💬 Contact
 
 Asiana Holloway
 📍 M.S. Health Informatics – Michigan Tech
