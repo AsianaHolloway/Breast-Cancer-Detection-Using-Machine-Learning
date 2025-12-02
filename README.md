@@ -23,6 +23,7 @@ The work is split into two parts but implemented in a **single Colab notebook**:
   - Load and clean the dataset  
   - Explore feature distributions  
   - Visualize relationships between features and the target label
+ 
 ✔ Key Tasks Completed
 
 Loaded the UCI dataset
