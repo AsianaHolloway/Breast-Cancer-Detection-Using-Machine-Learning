@@ -178,17 +178,4 @@ Asiana Holloway
 📍 M.S. Health Informatics – Michigan Tech
 ---
 
-## 📂 Repository Structure
 
-```text
-Breast-Cancer-Detection-ML/
-│
-├── Breast_Cancer_Detection.ipynb     # Full Colab notebook (Part 1 + Part 2)
-├── Breast_Cancer_Detection.pdf       # PDF export of the notebook
-├── README.md                         # Project documentation (this file)
-└── images/                           # Visualizations
-       ├── histograms.png
-       ├── scatter_matrix.png
-       ├── knn_confusion_matrix.png
-       ├── svm_confusion_matrix.png
-       └── model_comparison_table.png
