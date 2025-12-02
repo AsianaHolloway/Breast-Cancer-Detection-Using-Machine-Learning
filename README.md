@@ -80,9 +80,7 @@ Clinical relevance:
 
 The RBF SVM delivered the best diagnostic performance, reducing the risk of false negatives, which is crucial in early breast cancer detection.
 
-🧠 Code Walkthrough — Showing Understanding
-
-This section is here to demonstrate that I understand what the code is doing, not just that it runs.
+🧠 Code Walkthrough 
 
 🔹 Data Loading & Cleaning
 
