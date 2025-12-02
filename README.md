@@ -19,7 +19,7 @@ This project uses the **Breast Cancer Wisconsin (Original)** dataset from the UC
 
 The work is split into two parts but implemented in a **single Colab notebook**:
 
-- 🧪 **Part 1 – Exploratory Data Analysis (EDA)**  
+🧪 **Part 1 – Exploratory Data Analysis (EDA)**  
   - Load and clean the dataset  
   - Explore feature distributions  
   - Visualize relationships between features and the target label
@@ -40,7 +40,7 @@ Understanding which tumor characteristics matter most
 
 Preparing real medical data for ML modeling
 
-- 🤖 **Part 2 – Machine Learning Models**  
+🤖 **Part 2 – Machine Learning Models**  
   - Train and evaluate:
   - **K-Nearest Neighbors (KNN)**
   - **Support Vector Machine (SVM)**
